@@ -17,7 +17,12 @@ enabled = true
 # database_name = "my-database"
 # database_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 
+[[kv_namespaces]]
+binding = "NZ_BOT_STORE"
+id = "a0d88b7a7f3149ff8aec73cdb18b20b6"
+
 [vars]
+NZ_BASEURL="https://p.510222.xyz"
 LANG="zh-CN"
 ENDPOINT_PATH = "/endpoint"
 
