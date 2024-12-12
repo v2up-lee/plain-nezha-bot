@@ -19,10 +19,10 @@ enabled = true
 
 [[kv_namespaces]]
 binding = "NZ_BOT_STORE"
-id = "a0d88b7a7f3149ff8aec73cdb18b20b6"
+id = "kv_namespace_id"
 
 [vars]
-NZ_BASEURL="https://p.510222.xyz"
+NZ_BASEURL="https://www.example.com"
 LANG="zh-CN"
 ENDPOINT_PATH = "/endpoint"
 
